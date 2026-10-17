@@ -4,7 +4,7 @@ const APP_CONFIG = {
     DB_KEY: "school_9scol",
     
     // 2. إصدار التطبيق (قم بتغييره لإجبار الأجهزة على تحديث النظام)
-    APP_VERSION: 'v1',
+    APP_VERSION: 'v2',
 
     // 3. إعدادات Firebase الخاصة بالنسخة
     FIREBASE_CONFIG: {
